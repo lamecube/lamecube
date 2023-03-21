@@ -1,4 +1,4 @@
-# LameCube 👻
+# BadChicken 👻
 A day in the life of the BadChicken; hunt, peck scratch and hack. Its the best way to get things done.
 ## About Me
 
