@@ -1,4 +1,4 @@
-# John Doe
+# 👻 LameCube 👻
 
 ## About Me
 
