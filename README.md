@@ -1,5 +1,5 @@
-# 👻 LameCube 👻
-
+# LameCube 👻
+A day in the life of the BadChicken; hunt, peck scratch and hack. Its the best way to get things done.
 ## About Me
 
 I'm a software engineer based in CyberSpace, with a passion for building innovative and impactful products. I enjoy exploring new technologies and contributing to open-source projects.
