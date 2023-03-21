@@ -22,7 +22,7 @@ I'm a software engineer based in CyberSpace, with a passion for building innovat
 
 - Description: A library management system that allows users to search, borrow, and return books.
 - Technologies: GO, MySQL, SQLite, PostgreSQL
-- GitHub Repo: [EasyApp](https://github.com/lamecube/App)
+- GitHub Repo: [GoAnyWhereServer](https://github.com/lamecube/GoAnyWhereServer)
 
 ## Contact Me
 
