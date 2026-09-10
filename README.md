@@ -1,12 +1,24 @@
 # Roman C. Jordan
 
-**Software & Hardware Engineer | Cybersecurity Researcher | Automation & Robotics**
+**Software Engineer | Infrastructure Automation | Cybersecurity Researcher | Robotics & Embedded Systems**
 
 I build software, automate infrastructure, and connect hardware with practical applications. My work spans application development, Linux systems, cybersecurity, and robotics, with an emphasis on solving real operational problems.
 
 Based in Minnesota, I enjoy working across the stack—from embedded devices and backend services to user interfaces and deployment workflows.
 
-[LinkedIn](https://www.linkedin.com/in/romancjordan/) · [Email](mailto:me@romanjordan.com)
+**Recruiters & hiring teams:** [me@romanjordan.com](mailto:me@romanjordan.com?subject=Engineering%20opportunity%20for%20Roman%20Jordan)  
+**Location:** Minnesota, United States · Interested in remote opportunities
+
+## Engineering Opportunities
+
+I'm interested in roles where I can apply software development, infrastructure automation, and hardware integration to practical problems. Relevant roles include:
+
+- **Software Engineer / Backend Developer:** Python, JavaScript, Go, APIs, and database-backed applications.
+- **DevOps / Infrastructure Automation Engineer:** Linux, Docker, Bash, deployment automation, and system administration.
+- **Robotics / Embedded Software Engineer:** C, C++, RP2040, ROS 2, and micro-ROS.
+- **Security Engineer / Cybersecurity Researcher:** System hardening, security research, and infrastructure assessment.
+
+For recruiting inquiries, please email the role title, company, compensation range, and remote or location requirements. Resume available on request.
 
 ## Areas of Focus
 
@@ -40,9 +52,8 @@ A server project with file-serving and link-management services, packaged with D
 
 **Technologies:** Go, Docker, Docker Compose
 
-## Connect
+## Contact Roman Jordan
 
-Interested in collaborating on software, infrastructure automation, cybersecurity, or robotics? Get in touch.
+Email is the best way to reach me about engineering roles or technical collaborations.
 
-- **Email:** [me@romanjordan.com](mailto:me@romanjordan.com)
-- **LinkedIn:** [Roman C. Jordan](https://www.linkedin.com/in/romancjordan/)
+**[me@romanjordan.com](mailto:me@romanjordan.com)**
