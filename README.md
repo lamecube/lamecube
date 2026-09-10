@@ -1,30 +1,48 @@
-# BadChicken 👻
-A day in the life of the BadChicken; hunt, peck scratch and hack. Its the best way to get things done.
-## About Me
+# Roman C. Jordan
 
-I'm a software engineer based in CyberSpace, with a passion for building innovative and impactful products. I enjoy exploring new technologies and contributing to open-source projects.
+**Software & Hardware Engineer | Cybersecurity Researcher | Automation & Robotics**
 
-## Skills
+I build software, automate infrastructure, and connect hardware with practical applications. My work spans application development, Linux systems, cybersecurity, and robotics, with an emphasis on solving real operational problems.
 
-- Programming Languages: Python, JavaScript, Java, C++, GO, C
-- Frameworks/Libraries: React, Flask, Spring, Django, ROS, ROS2, Micro-ROS, So much more...
-- Databases: PostgreSQL, MongoDB, MySQL, SQLite
+Based in Minnesota, I enjoy working across the stack—from embedded devices and backend services to user interfaces and deployment workflows.
 
-## Projects
+[LinkedIn](https://www.linkedin.com/in/romancjordan/) · [Email](mailto:me@romanjordan.com)
 
-### Project 1: EasyApp
+## Areas of Focus
 
-- Description: EasyApp, create a fully functioning app in minutes for multi-platform development.
-- Technologies: React, Node.js, SQLite, PostgreSQL
-- GitHub Repo: [EasyApp](https://github.com/lamecube/App)
+- **Software development:** Applications, APIs, and backend services across multiple platforms.
+- **Infrastructure & automation:** Linux administration, Docker environments, Bash tooling, and repeatable deployment workflows.
+- **Cybersecurity:** Security research, system hardening, and infrastructure assessment.
+- **Robotics & embedded systems:** ROS, ROS 2, and micro-ROS development connecting software with sensors, actuators, and motion control.
+- **Data & databases:** Relational and document databases, data analysis, and tools that make information easier to use.
 
-### Project 2: MultiPlatform Server
+## Technical Skills
 
-- Description: A library management system that allows users to search, borrow, and return books.
-- Technologies: GO, MySQL, SQLite, PostgreSQL
-- GitHub Repo: [GoAnyWhereServer](https://github.com/lamecube/GoAnyWhereServer)
+| Area | Technologies |
+| --- | --- |
+| Languages | Python, JavaScript, Java, Go, C, C++, Bash |
+| Web & backend | React, Node.js, Flask, Django, Spring |
+| Robotics | ROS, ROS 2, micro-ROS, RP2040 |
+| Infrastructure & tooling | Linux, Docker, Git, Nginx, VMware vCenter |
+| Databases | PostgreSQL, MySQL, SQLite, MongoDB |
 
-## Contact Me
+## Selected Projects
 
-- Email: me@romanjordan.com
-- LinkedIn: [The Real Me](https://www.linkedin.com/in/romancjordan/)
+### [EasyApp](https://github.com/lamecube/App)
+
+A project focused on simplifying application creation for multiple platforms.
+
+**Technologies:** React, Node.js, SQLite, PostgreSQL
+
+### [GoAnyWhereServer](https://github.com/lamecube/GoAnyWhereServer)
+
+A server project with file-serving and link-management services, packaged with Docker Compose.
+
+**Technologies:** Go, Docker, Docker Compose
+
+## Connect
+
+Interested in collaborating on software, infrastructure automation, cybersecurity, or robotics? Get in touch.
+
+- **Email:** [me@romanjordan.com](mailto:me@romanjordan.com)
+- **LinkedIn:** [Roman C. Jordan](https://www.linkedin.com/in/romancjordan/)
