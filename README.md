@@ -1,59 +1,81 @@
 # Roman C. Jordan
+### Software Engineer · Applied AI & Developer Tools · Automation · Robotics
 
-**Software Engineer | Infrastructure Automation | Cybersecurity Researcher | Robotics & Embedded Systems**
+**I build tools that turn complex technical work into repeatable workflows.**
 
-I build software, automate infrastructure, and connect hardware with practical applications. My work spans application development, Linux systems, cybersecurity, and robotics, with an emphasis on solving real operational problems.
+My work connects AI-assisted software development, backend systems, infrastructure automation, and embedded hardware. I bring a practical engineering perspective: integrate the tools, inspect the output, test the behavior, and make the workflow useful.
 
-Based in Minnesota, I enjoy working across the stack—from embedded devices and backend services to user interfaces and deployment workflows.
+**Minnesota, United States · Interested in remote engineering opportunities**  
+**Hiring or collaborating? [Email me directly](mailto:me@romanjordan.com?subject=Engineering%20opportunity%20for%20Roman%20Jordan)** · [Explore my repositories](https://github.com/lamecube?tab=repositories)
 
-**Recruiters & hiring teams:** [me@romanjordan.com](mailto:me@romanjordan.com?subject=Engineering%20opportunity%20for%20Roman%20Jordan)  
-**Location:** Minnesota, United States · Interested in remote opportunities
+---
 
-## Engineering Opportunities
+## AI & Developer Tooling
 
-I'm interested in roles where I can apply software development, infrastructure automation, and hardware integration to practical problems. Relevant roles include:
+### CENT CLI — AI-assisted engineering workflows
 
-- **Software Engineer / Backend Developer:** Python, JavaScript, Go, APIs, and database-backed applications.
-- **DevOps / Infrastructure Automation Engineer:** Linux, Docker, Bash, deployment automation, and system administration.
-- **Robotics / Embedded Software Engineer:** C, C++, RP2040, ROS 2, and micro-ROS.
-- **Security Engineer / Cybersecurity Researcher:** System hardening, security research, and infrastructure assessment.
+I'm developing a Bash-based toolkit that brings command execution, testing, deployment, Git workflows, and AI-assisted tasks into a reusable developer interface.
 
-For recruiting inquiries, please email the role title, company, compensation range, and remote or location requirements. Resume available on request.
+- **AI-assisted change preparation:** Commit-message generation and structured model responses for proposed code changes.
+- **Structured output handling:** Parsing responses into actions, files, tests, and follow-up tasks.
+- **Generated-code handling:** Work on safer file extraction, shell quoting, and validation.
+- **Developer workflow automation:** Command discovery, configurable actions, test reporting, and protected-branch checks.
 
-## Areas of Focus
+This work combines prompt design, structured response processing, shell automation, and human review around generated output.
 
-- **Software development:** Applications, APIs, and backend services across multiple platforms.
-- **Infrastructure & automation:** Linux administration, Docker environments, Bash tooling, and repeatable deployment workflows.
-- **Cybersecurity:** Security research, system hardening, and infrastructure assessment.
-- **Robotics & embedded systems:** ROS, ROS 2, and micro-ROS development connecting software with sensors, actuators, and motion control.
-- **Data & databases:** Relational and document databases, data analysis, and tools that make information easier to use.
+### Public AI repositories
 
-## Technical Skills
+| Repository | Focus | Context |
+| --- | --- | --- |
+| [Vector Search API](https://github.com/lamecube/vector-search-api) | Vector similarity search using FastAPI, PostgreSQL/pgvector, OpenAI or Ollama embeddings, and Docker | Fork of an open-source project |
+| [Autocoder for VS Code](https://github.com/lamecube/autocoder-vscode) | LLM code completion, inference endpoints, and editor integration | Fork of the Hugging Face LLM extension |
 
-| Area | Technologies |
+## Beyond AI
+
+**Robotics & embedded systems** — ROS 2, micro-ROS, RP2040, sensors, actuators, and motion-control development.
+
+**Infrastructure & security** — Linux, Docker, Bash automation, system hardening, and cybersecurity research.
+
+**Application engineering** — APIs, backend services, web interfaces, databases, and integrations across software and hardware.
+
+### Selected projects
+
+| Project | Engineering focus |
 | --- | --- |
-| Languages | Python, JavaScript, Java, Go, C, C++, Bash |
-| Web & backend | React, Node.js, Flask, Django, Spring |
-| Robotics | ROS, ROS 2, micro-ROS, RP2040 |
-| Infrastructure & tooling | Linux, Docker, Git, Nginx, VMware vCenter |
-| Databases | PostgreSQL, MySQL, SQLite, MongoDB |
+| [ALPHA-OS](https://github.com/lamecube/ALPHA-OS) | Embedded operating-system project targeting RP2040 and ESP32, with a focus on prosthetic-device applications |
+| [EasyApp](https://github.com/lamecube/App) | Simplifying application creation across platforms with React, Node.js, and database integration |
+| [GoAnyWhereServer](https://github.com/lamecube/GoAnyWhereServer) | File-serving and link-management services packaged with Docker Compose |
 
-## Selected Projects
+## Technical Toolkit
 
-### [EasyApp](https://github.com/lamecube/App)
+| Area | Technologies & practices |
+| --- | --- |
+| AI-assisted development | Prompt design, structured model output, generated-code review, developer workflow automation |
+| Languages | Python, JavaScript, Go, C, C++, Java, Bash |
+| Applications | React, Node.js, Flask, Django, Spring, REST APIs |
+| Systems & delivery | Linux, Docker, Git, Nginx, VMware vCenter |
+| Robotics & hardware | ROS, ROS 2, micro-ROS, RP2040, ESP32 |
+| Data | PostgreSQL, MySQL, SQLite, MongoDB |
 
-A project focused on simplifying application creation for multiple platforms.
+## Let's Build Something Useful
 
-**Technologies:** React, Node.js, SQLite, PostgreSQL
+Interested in **Applied AI / LLM Integration**, **Developer Tools**, **Software / Backend Engineering**, **DevOps / Infrastructure Automation**, and **Robotics / Embedded Software** roles.
 
-### [GoAnyWhereServer](https://github.com/lamecube/GoAnyWhereServer)
+**[me@romanjordan.com](mailto:me@romanjordan.com?subject=Engineering%20opportunity%20for%20Roman%20Jordan)**  
+Resume available on request. For recruiting inquiries, include the role, company, compensation range, and remote or location requirements.
 
-A server project with file-serving and link-management services, packaged with Docker Compose.
-
-**Technologies:** Go, Docker, Docker Compose
-
-## Contact Roman Jordan
-
-Email is the best way to reach me about engineering roles or technical collaborations.
-
-**[me@romanjordan.com](mailto:me@romanjordan.com)**
+<!--
+Profile metadata — factual summary of the visible profile.
+Name: Roman C. Jordan
+Name variant: Roman Jordan
+GitHub: lamecube
+Canonical profile: https://github.com/lamecube
+Contact: me@romanjordan.com
+Location: Minnesota, United States
+Focus: AI-assisted developer tools, structured LLM output processing,
+software engineering, infrastructure automation, cybersecurity, robotics,
+embedded systems.
+CENT CLI: Bash developer toolkit with AI-assisted workflow development.
+Public original-project references: ALPHA-OS, EasyApp, GoAnyWhereServer.
+Public fork references: vector-search-api, autocoder-vscode.
+-->
